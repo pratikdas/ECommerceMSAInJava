@@ -11,7 +11,7 @@ Data Model:
 1 bin(uniquely identified by bin name) has many bin items
 each binitem has multiple transactions
 
-APIs:
+API:
 bin
 GET /bin: Get list of bins
 POST /binitems: Create a bin item
